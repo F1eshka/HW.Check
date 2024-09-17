@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\HW.Check\HW.Check\bin\Debug\net8.0\HW.Check.exe
+C:\Users\Rog\source\repos\HW.Check\HW.Check\bin\Debug\net8.0\HW.Check.deps.json
+C:\Users\Rog\source\repos\HW.Check\HW.Check\bin\Debug\net8.0\HW.Check.runtimeconfig.json
+C:\Users\Rog\source\repos\HW.Check\HW.Check\bin\Debug\net8.0\HW.Check.dll
+C:\Users\Rog\source\repos\HW.Check\HW.Check\bin\Debug\net8.0\HW.Check.pdb
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.AssemblyInfo.cs
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.dll
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\refint\HW.Check.dll
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.pdb
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\HW.Check.genruntimeconfig.cache
+C:\Users\Rog\source\repos\HW.Check\HW.Check\obj\Debug\net8.0\ref\HW.Check.dll
